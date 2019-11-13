@@ -23,3 +23,9 @@
 
 Запуск программы
 
+
+#### Results
+![Результат 1](imgs/first.jpg)
+![Результат 2](imgs/second.jpg)
+![Результат 3](imgs/third.jpg)
+![Результат 4](imgs/forth.jpg)
