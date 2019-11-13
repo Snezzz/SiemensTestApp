@@ -1,0 +1,33 @@
+.values-list-box{
+    width:30%;
+    margin: 5px 2px 0 2px;
+    border: 1px solid black;
+    padding: 18px;
+    overflow-x: auto;
+}
+.values-list-box input{
+    width:100%;
+}
+.values-list{
+    list-style: none;
+    padding: 0;
+}
+.list-title{
+    margin: 5px 0 5px 0;
+}
+.values-list li{
+    border: 1px solid black;
+    margin: 2px;
+}
+.value button{
+    float: right;
+    border-radius: 5px;
+}
+.value{
+    overflow-x: auto;
+    padding: 4px;
+}
+.value b{
+    margin:20px;
+}
+
